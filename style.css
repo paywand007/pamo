@@ -1,0 +1,21 @@
+* {
+    text-decoration: none;
+    list-style: none;
+}
+
+.foter {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+i {
+    font-size: 30px;
+    color: black;
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient( to right, rgb(0, 0, 0), rgb(0, 0, 0), rgba(0, 0, 0));
+}
